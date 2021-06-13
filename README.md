@@ -12,10 +12,12 @@
 * Currently working on the framework React.
 * Planning to explore MERN.
 
- # MY HOBBIES 
+[![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antara25-10)](https://github.com/Oshekher/github-readme-stats)
+
+ # My Other Interests 
 
 * I am into digital marketing.
 * I love to paint.
 * I also like to capture content
 
-[![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antara25-10)](https://github.com/Oshekher/github-readme-stats)
+
