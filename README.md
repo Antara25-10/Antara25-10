@@ -1,4 +1,4 @@
-### Hi, I'm Antara 👋
+### Hi, I'm ANTARA 👋
 
  # MY INTERESTS 
 
@@ -14,7 +14,7 @@
 
  # MY HOBBIES 
 
-* I am into digital marketing too.
+* I am into digital marketing.
 * I love to paint.
 * I also like to capture content
 
