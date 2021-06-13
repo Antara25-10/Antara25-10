@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi, I'm Antara 👋
 
-<!--
-**Antara25-10/Antara25-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* MY INTERESTS *
 
-Here are some ideas to get you started:
+# I'm a programmer and a developer.
+# I love to learn languages and love to work with frameworks.
+# I also love to designs User Interfaces.
+# I'm well versed with the languagess Java and Python.
+# I'm currently working on C.
+# I'm a Full stack Enthusiast.
+# I have worked with HTML, CSS ,Javascript.
+# Currently working on the framework React.
+# Planning to explore MERN.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+* MY HOBBIES *
+
+# I am into digital marketing too.
+# I love to paint.
+# I also like to capture content
