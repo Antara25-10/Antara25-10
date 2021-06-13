@@ -1,6 +1,6 @@
 ### Hi, I'm Antara 👋
 
-* MY INTERESTS *
+ MY INTERESTS 
 
 # I'm a programmer and a developer.
 # I love to learn languages and love to work with frameworks.
@@ -12,8 +12,7 @@
 # Currently working on the framework React.
 # Planning to explore MERN.
 
-
-* MY HOBBIES *
+ MY HOBBIES 
 
 # I am into digital marketing too.
 # I love to paint.
