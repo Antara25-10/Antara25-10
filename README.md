@@ -1,6 +1,6 @@
-### Hi, I'm ANTARA 👋
+# Hi, I'm ANTARA 👋
 
- # MY INTERESTS 
+ ## MY INTERESTS 
 
 * I'm a programmer and a developer.
 * I love to learn languages and love to work with frameworks.
@@ -14,7 +14,7 @@
 
 [![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antara25-10)](https://github.com/Oshekher/github-readme-stats)
 
- # My Other Interests 
+ #### MY OTHER INTERESTS
 
 * I am into digital marketing.
 * I love to paint.
