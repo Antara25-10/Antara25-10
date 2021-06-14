@@ -26,7 +26,7 @@
 <a href="https://stackoverflow.com/users/antara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="antara" height="30" width="40" /></a>
 <a href="https://dribbble.com/antara_25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="antara_25" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/antaragupta25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="antaragupta25" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@antaragupta25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@antaragupta25" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/antaragupta25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@antaragupta25" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
