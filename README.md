@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Frontend (HTML, CSS, JavaScript, Bootstrap), GUI (PyQt5), Arduino Uno Basics,**
 
-- ⚡ Fun fact **I am into digital marketing, I love to paint and capture content too.**
+- ⚡ Fun fact: **I am into digital marketing, I love to paint and capture content too.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
