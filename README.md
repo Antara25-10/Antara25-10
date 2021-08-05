@@ -17,6 +17,8 @@
 
 - 💬 Ask me about **Frontend (HTML, CSS, JavaScript, Bootstrap), GUI (PyQt5), Arduino Uno Basics,**
 
+- 👉🏻 Check out my Resume at:- https://resume.io/r/xUMToMRFN
+
 - ⚡ Fun fact: **I am into digital marketing, I love to paint and capture content too.**
 
 
