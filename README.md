@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Antara25-10](https://github.com/Antara25-10)
 
-- 💬 Ask me about **Frontend (HTML, CSS, JavaScript, Bootstrap), GUI (PyQt5), Arduino Uno Basics,**
+- 💬 Ask me about **Frontend (HTML, CSS, JavaScript, Bootstrap, ReactJS, Material UI), GUI (PyQt5), Arduino Uno Basics,**
 
 - 👉🏻 Check out my Resume at:- https://resume.io/r/xUMToMRFN
 
